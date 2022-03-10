@@ -6,6 +6,7 @@ library(corrplot)
 library(ccgarch)
 library(randomForest)
 
+
 # read data -----------------------------------------------------------------------------------
 
 kozhi <- read_csv("kozhikodu.csv")
